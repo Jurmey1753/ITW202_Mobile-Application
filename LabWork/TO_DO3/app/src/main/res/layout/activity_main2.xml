@@ -7,13 +7,13 @@
     tools:context=".MainActivity2">
 
     <TextView
-        android:id="@+id/textView2"
-        android:layout_width="306dp"
-        android:layout_height="61dp"
-        android:background="@color/purple_500"
+        android:id="@+id/text_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Message Received"
-        android:textColor="@color/white"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
