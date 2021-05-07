@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo_14_l</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string name="donut_order_message">You ordered donut</string>
+    <string name="ice_cream_order_message">You ordered ice cream snadwiche</string>
+    <string name="froyo_order_message">You ordered froyo</string>
+</resources>
